@@ -1,0 +1,11 @@
+C:\Users\Jerimiah's PC\source\repos\ComitBrowserSol\ComitBrowser\obj\Debug\CommitBrowser.csprojAssemblyReference.cache
+C:\Users\Jerimiah's PC\source\repos\ComitBrowserSol\ComitBrowser\obj\Debug\ComitBrowser.Form1.resources
+C:\Users\Jerimiah's PC\source\repos\ComitBrowserSol\ComitBrowser\obj\Debug\CommitBrowser.csproj.GenerateResource.cache
+C:\Users\Jerimiah's PC\source\repos\ComitBrowserSol\ComitBrowser\obj\Debug\CommitBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Jerimiah's PC\source\repos\ComitBrowserSol\ComitBrowser\obj\Debug\ComitBrowser.Form2.resources
+C:\Users\Jerimiah's PC\source\repos\ComitBrowserSol\ComitBrowser\bin\Debug\CommitBrowser.exe.config
+C:\Users\Jerimiah's PC\source\repos\ComitBrowserSol\ComitBrowser\bin\Debug\CommitBrowser.exe
+C:\Users\Jerimiah's PC\source\repos\ComitBrowserSol\ComitBrowser\bin\Debug\CommitBrowser.pdb
+C:\Users\Jerimiah's PC\source\repos\ComitBrowserSol\ComitBrowser\obj\Debug\CommitBrowser.Properties.Resources.resources
+C:\Users\Jerimiah's PC\source\repos\ComitBrowserSol\ComitBrowser\obj\Debug\CommitBrowser.exe
+C:\Users\Jerimiah's PC\source\repos\ComitBrowserSol\ComitBrowser\obj\Debug\CommitBrowser.pdb
